@@ -1,4 +1,1 @@
-contents 6
-
-username: asdf
-password: asdf
+contents 7
