@@ -1,1 +1,4 @@
-contents 2
+contents 3
+
+username: secret!
+password: super secret!
