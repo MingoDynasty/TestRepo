@@ -1,4 +1,4 @@
-contents 5
+contents 6
 
-username: secret!
-password: super secret!
+username: asdf
+password: asdf
